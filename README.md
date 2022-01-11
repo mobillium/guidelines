@@ -6,5 +6,5 @@ Project & code style guidelines of Mobillium Android, Backend and iOS teams.
 # Links to Guidelines
 
 🔗 [Android Guideline](https://github.com/mobillium/Android-Guidelines) <br>
-🔗 Backend Guideline <br>
+🔗 [Backend Guideline](https://github.com/mobillium/BackEnd-Guidelines/) <br>
 🔗 [iOS Guideline](https://github.com/mobillium/iOS-Guidelines)
